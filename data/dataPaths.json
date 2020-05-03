@@ -473,6 +473,10 @@
     "20w17a": {
       "protocol": "pc/20w17a",
       "version": "pc/20w17a"
+    },
+    "20w18a": {
+      "protocol": "pc/20w17a",
+      "version": "pc/20w18a"
     }
   },
   "pe":{
